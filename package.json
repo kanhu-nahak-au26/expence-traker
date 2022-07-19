@@ -1,9 +1,12 @@
 {
   "name": "expenses-tracker",
+  "homepage": "https://github.com/kanhu-nahak-au26/expence-traker",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "server": "npm run watch --prefix server",
     "client": "npm run start --prefix client",
     "watch": "npm run server & npm run client"
