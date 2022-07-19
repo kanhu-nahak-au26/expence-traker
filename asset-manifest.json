@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kanhu-nahak-au26/expence-traker/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/kanhu-nahak-au26/expence-traker/static/js/main.84b5bba0.chunk.js",
+    "main.js.map": "/kanhu-nahak-au26/expence-traker/static/js/main.84b5bba0.chunk.js.map",
+    "runtime-main.js": "/kanhu-nahak-au26/expence-traker/static/js/runtime-main.0bd0ea15.js",
+    "runtime-main.js.map": "/kanhu-nahak-au26/expence-traker/static/js/runtime-main.0bd0ea15.js.map",
+    "static/js/2.730f649d.chunk.js": "/kanhu-nahak-au26/expence-traker/static/js/2.730f649d.chunk.js",
+    "static/js/2.730f649d.chunk.js.map": "/kanhu-nahak-au26/expence-traker/static/js/2.730f649d.chunk.js.map",
+    "index.html": "/kanhu-nahak-au26/expence-traker/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/kanhu-nahak-au26/expence-traker/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.730f649d.chunk.js.LICENSE.txt": "/kanhu-nahak-au26/expence-traker/static/js/2.730f649d.chunk.js.LICENSE.txt",
+    "static/media/data.f46fd17a.svg": "/kanhu-nahak-au26/expence-traker/static/media/data.f46fd17a.svg",
+    "static/media/money.4b02dbc3.svg": "/kanhu-nahak-au26/expence-traker/static/media/money.4b02dbc3.svg",
+    "static/media/notadmin.4861ae77.svg": "/kanhu-nahak-au26/expence-traker/static/media/notadmin.4861ae77.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bd0ea15.js",
+    "static/js/2.730f649d.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.84b5bba0.chunk.js"
+  ]
+}
